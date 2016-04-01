@@ -1,0 +1,4 @@
+co/com/conexia/rest/PagadorServiceRS.class
+co/com/conexia/service/PagadorServiceWS.class
+co/com/conexia/domain/Pagador.class
+co/com/conexia/service/impl/PagadorServiceImpl.class
